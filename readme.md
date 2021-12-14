@@ -78,3 +78,5 @@ It was created a star to test this contract:
 First transaction: [0x32752cdb4d8a55104524ddb24308ca893c27d77a6508d7e9f2fafc737354363e**](https://rinkeby.etherscan.io/tx/0x32752cdb4d8a55104524ddb24308ca893c27d77a6508d7e9f2fafc737354363e)
 
 Starname: **Atlas**
+
+StarId: 1
