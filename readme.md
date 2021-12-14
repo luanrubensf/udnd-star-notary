@@ -79,4 +79,4 @@ First transaction: [0x32752cdb4d8a55104524ddb24308ca893c27d77a6508d7e9f2fafc7373
 
 Starname: **Atlas**
 
-StarId: 1
+StarId: **1**
