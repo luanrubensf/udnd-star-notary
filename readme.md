@@ -24,20 +24,19 @@ This project has tests to cover all the functionalities.
 
 ### Contract
 
-To run the contract locally you need to have truffle instaled.
+To run the contract locally you need to have truffle installed.
 
-1. Run `npm install` on the project foler.
-2. On the project folder you can run `truffle develp`. 
-3. Then you can compile the project with `compile`.
-4. Then you can run the tests using `test`.
-5. Finally you can run the migration using `migrate --reset`.
+1. Run npm install on the project folder.
+2. On the project folder, you can run truffle develop.
+3. Then you can compile the project with compile.
+4. Then you can run the tests using test.
+5. Finally, you can run the migration using migrate --reset.
 
 The project will be deployed in the local blockchain.
 
 ### front-end Dapp
 
-To run the frond-end app, first you need to install all dependencies. Inside  the `app` folder (`cd app`) 
-run the command:
+To run the front-end app, you need to install all dependencies. Inside the app folder (cd app) run the command:
 
 ```
 npm install
