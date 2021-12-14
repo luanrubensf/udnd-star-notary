@@ -52,6 +52,7 @@ npm run dev
 ## Token name and symbol
 
 ERC-721 Token Name: **StarNotary**
+
 ERC-721 Token Symbol: **STAR**
 
 ## Versions
@@ -76,4 +77,5 @@ Contract address: [0xefB08523fb2C148589dca8Dc2FB1677DB491548D](https://rinkeby.e
 It was created a star to test this contract:
 
 First transaction: [0x32752cdb4d8a55104524ddb24308ca893c27d77a6508d7e9f2fafc737354363e**](https://rinkeby.etherscan.io/tx/0x32752cdb4d8a55104524ddb24308ca893c27d77a6508d7e9f2fafc737354363e)
+
 Starname: **Atlas**
